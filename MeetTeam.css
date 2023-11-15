@@ -1,10 +1,10 @@
  .u-section-1 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.15), rgba(0,0,0,0.15)), url("images/about-us-img-1.jpg");
-  background-position: 50% 50%;
+  background-image: url("images/about-us-img-1.jpg");
+  background-position: 63.05% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 400px;
+  min-height: 346px;
 }
 
 .u-section-1 .u-text-1 {
@@ -15,19 +15,19 @@
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 330px;
+    min-height: 285px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 253px;
+    min-height: 218px;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 190px;
+    min-height: 164px;
   }
 
   .u-section-1 .u-text-1 {
@@ -37,7 +37,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 120px;
+    min-height: 103px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 563px;
