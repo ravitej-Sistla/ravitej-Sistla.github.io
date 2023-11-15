@@ -42771,13 +42771,18 @@ a.u-link.u-text-hover-grey-90:hover {
 
 
 .u-footer .u-sheet-1 {
-  min-height: 211px;
+  min-height: 154px;
+}
+
+.u-footer .u-text-1 {
+  width: 631px;
+  margin: 23px auto 0;
 }
 
 .u-footer .u-image-1 {
-  width: 234px;
-  height: 96px;
-  margin: 22px auto 0 -28px;
+  width: 217px;
+  height: 87px;
+  margin: -102px auto 0 0;
 }
 
 .u-footer .u-logo-image-1 {
@@ -42785,18 +42790,13 @@ a.u-link.u-text-hover-grey-90:hover {
   height: 100%;
 }
 
-.u-footer .u-text-1 {
-  width: 414px;
-  margin: -81px auto 0;
-}
-
 .u-footer .u-social-icons-1 {
-  height: 43px;
+  height: 40px;
   min-height: 16px;
-  width: 148px;
+  width: 140px;
   min-width: 68px;
   white-space: nowrap;
-  margin: 0 81px 0 auto;
+  margin: -76px 15px 52px auto;
 }
 
 .u-footer .u-icon-1 {
@@ -42810,74 +42810,49 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-footer .u-icon-3 {
   color: rgb(197, 54, 164) !important;
 }
-
-.u-footer .u-text-2 {
-  width: 256px;
-  font-size: 0.625rem;
-  font-weight: 400;
-  background-image: none;
-  margin: -10px auto 60px;
-}
-
-.u-footer .u-btn-1 {
-  background-image: none;
-  padding: 0;
-}
 @media (max-width: 1199px) {
-  .u-footer .u-image-1 {
-    margin-top: -33px;
-    margin-left: -28px;
-  }
-
   .u-footer .u-text-1 {
     width: 631px;
-    margin-top: -25px;
+  }
+
+  .u-footer .u-image-1 {
+    margin-top: -102px;
   }
 
   .u-footer .u-social-icons-1 {
-    width: 148px;
-    margin-top: -60px;
+    width: 122px;
+    min-width: 94px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-footer .u-sheet-1 {
+    min-height: 200px;
   }
 
-  .u-footer .u-text-2 {
-    margin-top: -10px;
-    width: 256px;
-  }
-}
-@media (max-width: 991px) {
   .u-footer .u-text-1 {
-    margin-top: -26px;
+    margin-top: 153px;
+    width: 540px;
   }
-}
-@media (max-width: 767px) {
+
   .u-footer .u-image-1 {
-    margin-top: -21px;
+    margin-top: -233px;
     margin-left: 230px;
   }
 
-  .u-footer .u-text-1 {
-    width: 540px;
-    margin-top: 11px;
-  }
-
   .u-footer .u-social-icons-1 {
-    margin-top: -74px;
+    margin-top: 20px;
     margin-right: auto;
   }
 }
 @media (max-width: 575px) {
-  .u-footer .u-image-1 {
-    margin-top: -46px;
-    margin-left: auto;
-  }
-
   .u-footer .u-text-1 {
     width: 340px;
-    margin-top: 35px;
   }
 
-  .u-footer .u-social-icons-1 {
-    margin-top: -99px;
+  .u-footer .u-image-1 {
+    margin-top: -258px;
+    margin-left: auto;
   }
 }
 
