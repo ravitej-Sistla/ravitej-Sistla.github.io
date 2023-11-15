@@ -7,6 +7,7 @@ for i in *.html; do sed -i '.bak' '/<section class=\"u-backlink u-clearfix u-gre
 git status
 
 git add *.html
+git add *.css
 
 git commit
 
