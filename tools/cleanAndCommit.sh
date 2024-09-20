@@ -9,6 +9,7 @@ git status
 
 git add *.html
 git add *.css
+git add nicepages-project/*
 
 git commit
 
