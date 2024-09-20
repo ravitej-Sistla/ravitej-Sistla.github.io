@@ -1,32 +1,31 @@
+ .u-section-1 {
+  background-image: none;
+}
+
 .u-section-1 .u-sheet-1 {
   min-height: 614px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
-  margin-top: 60px;
+  margin-top: 70px;
   margin-bottom: 60px;
 }
 
 .u-section-1 .u-layout-cell-1 {
-  min-height: 484px;
+  min-height: 433px;
 }
 
 .u-section-1 .u-container-layout-1 {
   padding: 27px 0 0;
 }
 
-.u-section-1 .u-image-1 {
-  width: 514px;
-  height: 310px;
-  margin: 18px 26px 0;
-}
-
 .u-section-1 .u-text-1 {
-  margin: 10px 0 0 26px;
+  width: 289px;
+  margin: 81px auto 0;
 }
 
 .u-section-1 .u-layout-cell-2 {
-  min-height: 484px;
+  min-height: 433px;
   background-image: none;
 }
 
@@ -36,7 +35,7 @@
 
 .u-section-1 .u-text-2 {
   font-weight: 700;
-  margin: 25px auto 0 36px;
+  margin: 24px auto 0 36px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -45,8 +44,9 @@
 
 .u-section-1 .u-form-1 {
   height: 350px;
-  width: 526px;
-  margin: -116px auto 0;
+  width: 757px;
+  background-image: none;
+  margin: -121px auto 0;
 }
 
 .u-section-1 .u-btn-2 {
@@ -63,28 +63,26 @@
 
   .u-section-1 .u-layout-cell-1 {
     background-position: 50% 50%;
-    min-height: 399px;
-  }
-
-  .u-section-1 .u-image-1 {
-    width: 465px;
-    height: 280px;
-    margin-left: 0;
-    margin-right: 0;
+    min-height: 357px;
   }
 
   .u-section-1 .u-text-1 {
-    margin-top: -46px;
+    margin-top: 252px;
+    margin-left: 26px;
     margin-right: 26px;
   }
 
   .u-section-1 .u-layout-cell-2 {
-    min-height: 399px;
+    min-height: 357px;
   }
 
   .u-section-1 .u-btn-1 {
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .u-section-1 .u-form-1 {
+    width: 526px;
   }
 }
 
@@ -93,9 +91,8 @@
     min-height: 100px;
   }
 
-  .u-section-1 .u-image-1 {
-    width: 355px;
-    height: 214px;
+  .u-section-1 .u-text-1 {
+    margin-top: 186px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -114,9 +111,8 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-image-1 {
-    width: 340px;
-    height: 205px;
+  .u-section-1 .u-text-1 {
+    margin-top: 177px;
   }
 
   .u-section-1 .u-form-1 {
