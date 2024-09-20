@@ -9,13 +9,18 @@
 
 .u-section-1 .u-text-1 {
   font-size: 3rem;
-  width: 741px;
-  margin: 91px auto 60px;
+  margin: 60px 45px;
 }
 
 @media (max-width: 1199px) {
   .u-section-1 .u-sheet-1 {
     min-height: 287px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: 741px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }
 
