@@ -1,14 +1,9 @@
 #!/bin/sh
 set +x
 
-git checkout release
 
 git fetch && git rebase
-git reset origin/release --hard
 
-git merge  origin/main 
+git push -f origin HEAD:release
 
-#git push origin HEAD:release
-
-#git checkout main
 
